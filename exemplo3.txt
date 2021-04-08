@@ -1,0 +1,6 @@
+var cont = 0;
+repita
+	inicio
+		ate cont = 10;
+		cont = cont + 1;
+	fim

@@ -1,0 +1,5 @@
+var idade;
+se idade > 18 entao
+	begin
+		escreva ('Maior de idade');
+	fim
